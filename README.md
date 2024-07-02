@@ -14,7 +14,7 @@ This project is a simple Fuel Cost Calculator web application built using Stream
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Mark23268/fuel-cost-calculator.git
+    git clone https://github.com/Mark23268/project/blob/main/project.py.git
     cd fuel-cost-calculator
     ```
 
