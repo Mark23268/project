@@ -14,8 +14,8 @@ This project is a simple Fuel Cost Calculator web application built using Stream
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Mark23268/project/blob/main/project.py.git
-    cd fuel-cost-calculator
+ https://github.com/Mark23268/project/blob/main/project.py.git
+    
     ```
 
 2. Create a virtual environment and activate it:
@@ -39,7 +39,7 @@ This project is a simple Fuel Cost Calculator web application built using Stream
     streamlit run project.py
     ```
 
-2. Open your web browser and go to `http://localhost:8501` to use the Fuel Cost Calculator.
+2. You will automatically be transferred to another site to use the Fuel Cost Calculator.
 
 ## Project Structure
 
