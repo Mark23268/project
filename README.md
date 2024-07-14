@@ -1,4 +1,4 @@
-# Fuel Cost Calculator
+# Trip Fuel Cost Calculator
 
 This project is a simple Fuel Cost Calculator web application built using Streamlit. It allows users to input their vehicle's mileage, the distance they plan to travel, and the average cost of gas to calculate the total fuel cost for the trip.
 
